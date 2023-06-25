@@ -1,4 +1,6 @@
-<h1 align="center">Magento 2 Bones</h1>
+<h1 align="center">Magento 2 Brute</h1>
+
+A module for improving the safety and reliability of Magento.
 
 ### Description
 
